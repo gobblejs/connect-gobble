@@ -1,0 +1,11 @@
+{
+  "name": "connect-gobble",
+  "version": "0.1.0",
+  "description": "Connect middleware to serve files managed by gobble",
+  "author": "Rich-Harris",
+  "license": "MIT",
+  "repository": "https://github.com/gobblejs/connect-gobble",
+  "dependencies": {
+    "mime": "^1.2.11"
+  }
+}
